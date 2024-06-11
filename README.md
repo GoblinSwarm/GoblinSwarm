@@ -13,5 +13,5 @@ I've been learning different kind of technologies from languages to databases an
 <br />
 💞️ I’m looking to collaborate on any project that I can help with.
 <br />
-📫 How to reach me: <a href="https://www.linkedin.com/in/perdomo-daniel/">Link tu my LinkedIn</a>
+📫 How to reach me: <a href="https://www.linkedin.com/in/perdomo-daniel/">Link to LinkedIn</a>
 <br />
