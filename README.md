@@ -2,7 +2,7 @@
 Hello! My name is Daniel Perdomo. 
 I am enthusiast in technology and development. 
 I've been learning different kind of technologies from languages to databases and including Data Science and Machine Learning Algorithms. 
-<img src='https://ibb.co/3rVPvxf'>
+<img src="https://i.ibb.co/YRJVX5D/image.png" alt="image" border="0">
 
 
 
