@@ -2,6 +2,7 @@
 Hello! My name is Daniel Perdomo. 
 I am enthusiast in technology and development. 
 I've been learning different kind of technologies from languages to databases and including Data Science and Machine Learning Algorithms. 
+<br />
 <a href="https://ibb.co/3rVPvxf">Courses taken on Kaggle.com</a>
 
 
