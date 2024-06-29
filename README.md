@@ -3,9 +3,9 @@ Hello! My name is Daniel Perdomo.
 I am enthusiast in technology and development. 
 I've been learning different kind of technologies from languages to databases, including Data Science and Machine Learning Algorithms. 
 <br />
-<a href="https://ibb.co/3rVPvxf">Courses taken on Kaggle.com</a>
+<a href="./kaggle.png">Courses taken on Kaggle.com</a>
 <br />
-<a href="https://ibb.co/gmNDVGm">Specialization Courses via Coursera and Universidad de la Empresa</a>
+<a href="./cv resumido.png">Specialization Courses via Coursera and Universidad de la Empresa</a>
 <br />
 👀 I’m interested in growing my skillsets. 
 <br />
