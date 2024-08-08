@@ -9,7 +9,7 @@ I've been learning different kind of technologies from languages to databases, i
 <br />
 👀 I’m interested in growing my skillsets. 
 <br />
-🌱 I’m currently learning to be a Full-stack Developer in 4Geekz Academy.
+🌱 I’m currently learning to be a Full-stack Developer in 4Geeks Academy.
 <br />
 💞️ I’m looking to collaborate on any project that I can help with.
 <br />
