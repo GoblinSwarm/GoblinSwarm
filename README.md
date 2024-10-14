@@ -7,6 +7,8 @@ I've been learning different kind of technologies from languages to databases, i
 <br />
 <a href="./cv resumido.png">Specialization Courses via Coursera and Universidad de la Empresa</a>
 <br />
+<a href="./Full-Stack.jpg">Full-Stack realizado en 4Geeks</a>
+<br />
 👀 I’m interested in growing my skillsets. 
 <br />
 🌱 I’m currently learning to be a Full-stack Developer in 4Geeks Academy.
